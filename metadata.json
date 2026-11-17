@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Analytics Studio – Regresión Logística y Machine Learning",
+  "description": "Plataforma profesional de analítica predictiva, análisis descriptivo, regresión logística binaria, validación estadística, simulador de escenarios e informes ejecutivos en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
